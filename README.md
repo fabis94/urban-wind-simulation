@@ -12,6 +12,8 @@ Direction of the wind represents with meteorological angles designated by δ, in
 
 ![Math & Meteo Angles](/img/math_meteo_angles.png)
 
+[Random relative file test](/package.json)
+
 2. Wind Speed
 
 Wind speed info collected from weather stations with exact values for exact heights. Creating atmospheric boundary layer from reference wind speeds and heights is a must since higher altitudes are considered. 
